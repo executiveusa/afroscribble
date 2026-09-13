@@ -19,29 +19,29 @@
     "prisma": false
   },
   "dependencies": {
-    "@prisma/client": "^4.10.1",
-    "@vercel/analytics": "^0.1.10",
-    "@vercel/og": "^0.1.0",
-    "copy-to-clipboard": "^3.3.3",
-    "lodash": "^4.17.21",
-    "lucide-react": "^0.88.0",
+    "@prisma/client": "^7.10.0",
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/og": "^1.0.2",
+    "copy-to-clipboard": "^4.0.2",
+    "lodash": "^4.18.1",
+    "lucide-react": "^1.44.0",
     "naughty-words": "^1.2.0",
-    "next": "^13.4.2",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-sketch-canvas": "^6.2.0",
-    "react-spinners": "^0.13.8",
-    "react-tooltip": "^5.13.0",
-    "replicate": "^0.18.0",
-    "upload-js-full": "^1.22.0"
+    "next": "^16.3.4",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-sketch-canvas": "^8.0.0",
+    "react-spinners": "^0.17.1",
+    "react-tooltip": "^6.0.8",
+    "replicate": "^1.4.0",
+    "upload-js-full": "^2.22.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.8",
-    "eslint": "8.23.0",
-    "eslint-config-next": "12.2.5",
+    "autoprefixer": "^10.5.5",
+    "eslint": "10.10.0",
+    "eslint-config-next": "16.3.4",
     "postcss": "^8.4.16",
-    "prisma": "^4.10.1",
-    "tailwindcss": "^3.1.8",
-    "tailwindcss-animate": "^1.0.5"
+    "prisma": "^7.10.0",
+    "tailwindcss": "^4.3.3",
+    "tailwindcss-animate": "^1.0.7"
   }
 }
